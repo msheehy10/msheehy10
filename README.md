@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @msheehy10
+- 👀 I’m interested in Data Science and Data Analytics
+- 🌱 I’m currently learning Python, SQL, and Tableu
+- 📫 How to reach me ... michael.sheehy1@outlook.com
